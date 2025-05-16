@@ -1,4 +1,4 @@
-# Multiple-object-detcriber
+# Multiple-object-describer
 USE CASE : Detecting and describing every object in a frame
 
 1) Generate multiple binary masks from an image using SAM and filter them by confidence threshold.
